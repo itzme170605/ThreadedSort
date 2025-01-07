@@ -1,0 +1,72 @@
+commit 1cce121b79a686f5150e64d5f0c4cf9397516258
+Author: Jatin <jj7485@rit.edu>
+Date:   Fri Dec 6 23:00:04 2024 -0500
+
+    final commit
+
+commit 3106607250808fb51b80f9039d93f284034d5fcb
+Author: Jatin <jj7485@rit.edu>
+Date:   Fri Dec 6 22:58:54 2024 -0500
+
+    documentation added
+
+commit e115395693ca8f8a4d3c61c33e7735fba172638c
+Author: Jatin <jj7485@rit.edu>
+Date:   Fri Dec 6 22:41:17 2024 -0500
+
+    final memory checks passed and correct output
+
+commit d9872e21a00dd464abceb1535477c81535c089bf
+Author: Jatin <jj7485@rit.edu>
+Date:   Fri Dec 6 18:03:40 2024 -0500
+
+    added thread count using MUTEX
+
+commit 7ed4c6d1466f6465d9348c1395ef30c0a1968726
+Author: Jatin <jj7485@rit.edu>
+Date:   Fri Dec 6 17:59:01 2024 -0500
+
+    working quicksort and threaded, need to add spawned threads count
+
+commit f98b626b9dd31ae03f35a0e59f5f0c85df829958
+Author: Jatin <jj7485@rit.edu>
+Date:   Fri Dec 6 17:02:28 2024 -0500
+
+    quicksort methods and partition method changed, made simpler by making sub arrays rather than previpus implementation
+
+commit bb70ab703f43afb1b0b99b3133658cf9d9f5cc82
+Author: Jatin <jj7485@rit.edu>
+Date:   Wed Dec 4 10:47:40 2024 -0500
+
+    fixed bugs, on quicksoert.c lines 114, 110, changed int *argv[] to char *arv[]
+
+commit e5bf367b20a870b1aea5e75ea39ed681ab2e3e52
+Author: Jatin <jj7485@rit.edu>
+Date:   Wed Dec 4 10:28:42 2024 -0500
+
+    threaded quicksort added with helper functions,
+
+commit a17def42db6f8688ead39db1c81e142ebf7a4963
+Author: Jatin <jj7485@rit.edu>
+Date:   Wed Dec 4 09:49:37 2024 -0500
+
+    quicksort() and helper funcions added
+
+commit 23b692cb4506b2750091e7032b34c194328cca56
+Author: Jatin <jj7485@rit.edu>
+Date:   Wed Dec 4 09:33:10 2024 -0500
+
+    completed main, fixed bugs and syntax
+
+commit 7a741f57c10b715fc35f356df8f97804d9b065f7
+Author: Jatin <jj7485@rit.edu>
+Date:   Wed Dec 4 09:24:52 2024 -0500
+
+    reading file and main function added, darta read from file into array, and function calls made,
+    TODO: implement the quickort() and quicksort_threaded() and other helper methods
+
+commit e2213a2c62fdcc30f05822fed65012b352152bbc
+Author: Jatin <jj7485@rit.edu>
+Date:   Wed Dec 4 09:12:02 2024 -0500
+
+    intital setup
